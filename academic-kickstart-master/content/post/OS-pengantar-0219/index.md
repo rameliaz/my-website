@@ -1,16 +1,16 @@
 +++
-title = "Sains Terbuka: Sebuah Pengantar"
+title = "Para Peragu Sains"
 subtitle = ""
 
-date = 2019-02-19T00:00:00
+date = 2020-02-19T00:00:00
 lastmod = 2019-02-19T00:00:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Admin"]
 
-tags = ["Sains Terbuka", "Open Science"]
-summary = "Penjelasan singkat tentang Gerakan Sains Terbuka."
+tags = ["Komunikasi Sains", "Sains dan Masyarakat"]
+summary = ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -24,7 +24,7 @@ summary = "Penjelasan singkat tentang Gerakan Sains Terbuka."
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Jonathan Tennant**](https://twitter.com/protohedgehog/status/1005020859881394176)"
+  caption = "Image credit: [**Association for Psychological Science**](https://www.psychologicalscience.org/redesign/wp-content/uploads/2012/09/PAFF_112116_misinformationPSPI_article-609x419.jpg)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -35,161 +35,54 @@ summary = "Penjelasan singkat tentang Gerakan Sains Terbuka."
 
 # Set captions for image gallery.
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-default.png"
-caption = "Default"
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-ocean.png"
-caption = "Ocean"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-forest.png"
-caption = "Forest"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-apogee.png"
-caption = "Apogee"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-1950s.png"
-caption = "1950s"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-cupcake.png"
-caption = "Cupcake"
 +++
 
-**Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+> Bumi bentuknya datar. Vaksinasi menyebabkan autisme. Makan cokelat dan mie pada waktu yang bersamaan menyebabkan kematian. Rokok baik untuk kesehatan.
 
-Follow our easy [step by step guide](https://sourcethemes.com/academic/docs/install/) to learn how to build your own free website with Academic. [Check out the personal demo](https://academic-demo.netlify.com/) or the [business demo](https://sourcethemes.com/academic/) of what you'll get in less than 10 minutes.
+Apakah anda sering dengar seruan-seruan serupa *sliweran* di media sosial?
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+Saya terus terang heran, *kok* bisa hasil penelitian yang sudah dilakukan bertahun-tahun dan diterima secara luas sebagai pengetahuan umum, bisa ditentang, bahkan ditolak mentah-mentah begitu saja? Mengapa orang-orang yang percaya hal-hal diatas, mengabaikan pelajaran sains yang sudah ia terima sejak sekolah dasar, lalu percaya begitu saja pada seorang "*pakar*" yang tidak jelas rekam jejaknya?
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+Yang paling berbahaya adalah ketika seorang *policymaker* memiliki sikap yang negatif pada sains dan ilmuwan. Beberapa kasus yang cukup terkenal adalah Donald Trump, yang secara terang-terangan mengungkapkan sikap skeptis, bahkan tidak percaya dengan [perubahan iklim](https://www.bbc.com/news/world-us-canada-46351940). Menggunakan alasan yang sama, pada tahun 2017 Trump kemudian [menarik Amerika Serikat](https://www.brookings.edu/blog/planetpolicy/2018/06/01/one-year-since-trumps-withdrawal-from-the-paris-climate-agreement/) dari perjanjian Paris tentang mitigasi dampak perubahan iklim. 
 
-Key features:
+Di Indonesia juga ada kasus serupa. Masih ingat bencana gempa dan [*smong*](https://theconversation.com/smong-cerita-lisan-simeulue-yang-selamatkan-penduduk-dari-amukan-tsunami-terdahsyat-105388) yang melanda Pandeglang dan Riau akhir tahun lalu? Sebelum bencana terjadi, seorang pakar dari BPPT sudah meneliti hal ini dan mengungkapkan adanya risiko terjadinya tsunami sampai 52 meter. Namun alih-alih ditindaklanjuti dengan mendorong mitigasi bencana, peneliti tersebut malah diancam [dipidana](https://www.bbc.com/indonesia/trensosial-43696823). Sementara di Palu, sebelum gempa, *smong* dan [*likuifaksi* atau pencairan tanah](https://id.wikipedia.org/wiki/Pencairan_tanah) terjadi, sekelompok peneliti geologi sudah pernah memprediksi bahkan membuat [peta risikonya](https://theconversation.com/riset-2012-telah-memetakan-desa-desa-di-palu-yang-tanahnya-berpotensi-tinggi-likuifaksi-akibat-gempa-104566) sejak 2012. Namun yang terjadi lokasi-lokasi rawan likuifaksi tersebut tetap ditinggali penduduk, sehingga ketika bencana datang, korban banyak berjatuhan.
 
-- Easily manage various content including homepage, blog posts, publications, talks, and projects
-- Extensible via **color themes** and **widgets/plugins**
-- Write in [Markdown](https://sourcethemes.com/academic/docs/writing-markdown-latex/) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
-- Social/academic network linking, [Google Analytics](https://analytics.google.com), and [Disqus](https://disqus.com) comments
-- Responsive and mobile friendly
-- Simple and refreshing one page design
-- Multilingual and easy to customize
+## Mengapa orang awam menolak mempercayai sains dan ilmuwan?
+Sikap negatif dan ketidakpercayaan yang ditunjukkan oleh orang awam pada sains dan ilmuwan biasanya disebabkan karena masyarakat mendapatkan informasi yang salah. Celakanya, lebih sulit mengkoreksi orang yang mengalami misinformasi, daripada yang tak tahu sama sekali. Tentu saja lebih mudah mengisi gelas yang kosong daripada yang sudah penuh, bukan? :smile:
 
-## Color Themes
+Beberapa riset di Psikologi Sosial banyak mengaitkan [*science denialism*](https://linkinghub.elsevier.com/retrieve/pii/S0039368116300681) dengan kepercayaan terhadap [teori konspirasi](http://dx.plos.org/10.1371/journal.pone.0075637), pandangan bahwa sains mengandung [ancaman moral](http://journals.sagepub.com/doi/10.1177/0146167216671518) sampai pada [ideologi politik](http://journals.sagepub.com/doi/10.1177/1948550617731500). Sementara faktor antar-kelompok yang mungkin punya andil dalam menjelaskan *science denialism* mencakup perilaku narsistik kolektif [(*collective narcissism*)](http://doi.org/10.1177/1948550615616170), [*system justification*](http://doi.wiley.com/10.1111/pops.12404) dan [*ingroup positivity*](http://doi.org/10.1111/bjop.12158).
 
-Academic is available in different color themes and font themes.
+Pada level individu, *science denialism* juga dapat dijelaskan melalui banyak variabel, yang beberapa diantaranya seperti kemampuan [berpikir analitik](https://linkinghub.elsevier.com/retrieve/pii/S0010027714001632), [rasa percaya (*trust*)](http://journals.sagepub.com/doi/10.1177/0963662510375663) pada otoritas, [perasaan tak berdaya](http://doi.wiley.com/10.1002/acp.3161), sampai bias kognitif seperti [*conjunction fallacy*](http://doi.wiley.com/10.1002/acp.2995). Individu yang memiliki kapasitas kemampuan berpikir analitik yang kurang memadai dan memiliki rasa percaya yang rendah pada otoritas sains (terutama pada pemerintah), cenderung rentan mempercayai sains semu (*pseudoscience*) dan mengandalkan teori konspirasi dalam memperoleh penjelasan mengenai hal-hal yang kompleks, terutama ketika mereka dihadapkan pada situasi yang tidak menentu.
 
-{{< gallery >}}
 
-## Ecosystem
+## Bagaimana 'para peragu' membentuk pengetahuan tandingan?
+Ahli komunikasi sains mencoba untuk mencari tahu bagaimana seorang 'peragu' memformulasi pengetahuan tandingan dan bagaimana pengetahuan tandingan ini tampak terlihat meyakinkan daripada penelitian yang sudah dikerjakan oleh ilmuwan bertahun-tahun. Berikut ini adalah penjelasan mengenai [karakteristik epistemologis](https://linkinghub.elsevier.com/retrieve/pii/S0039368116300681) (proses pemerolehan pengetahuan) para 'peragu sains'.
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+### *Cherry-picking*
+Dalam merumuskan konsep dan teori yang diperoleh dari hasil pengamatan, para ilmuwan harus memeriksa semua bukti yang relevan dengan pertanyaan penelitian yang ingin dijawab. Tentu saja pada praktiknya, para ilmuwan sering menghadapi situasi yang kontradiktif, dimana ia mendapati bukti yang mendukung asumsinya, sekaligus bukti lain yang justru bertolak belakang. Misalnya, beberapa riset menunjukkan [efektivitas *fluoxetine* (Prozac)](https://jamanetwork.com/journals/jama/article-abstract/404238) dalam meringankan gejala depresi, namun riset-riset lainnya justru menunjukkan bahwa efek obat tersebut cenderung [*placebo*](http://www.sciencemag.org/news/2008/02/problem-Prozac). Oleh karena itu, ilmuwan harus bersikap hati-hati dalam merumuskan kesimpulannya atas gejala yang ia amati.
 
-## Install
+Berbeda dengan para ilmuwan, para peragu sains cenderung memilih-milih bukti (*cherry-picking*), yaitu hanya mengandalkan bukti yang sudah sesuai dengan keyakinannya, namun mengabaikan bukti yang bertentangan. Peragu vaksinasi misalnya, menggunakan hasil penelitian Andrew Wakefield yang mengaitkan vaksinasi MMR dengan kejadian autisme, meskipun ada ratusan penelitian lainnya yang menyuguhkan bukti yang sebaliknya. Padahal, penelitian Wakefield tersebut sudah ditarik dan dinyatakan bermasalah, karena Wakefield melakukan pelanggaran [etika penelitian](http://time.com/5175704/andrew-wakefield-vaccine-autism/). 
 
-You can choose from one of the following four methods to install:
+Dengan *cherry-picking*, seseorang bisa membuktikan apapun yang ia mau dan tentu saja kesimpulan yang ditarik dengan melakukan *cherry-picking* hampir pasti selalu menyesatkan.
 
-* one-click install using your web browser (recommended)
-* install on your computer using Git with the Command Prompt/Terminal app
-* install on your computer by downloading the ZIP files
-* install on your computer with RStudio
+### Menolak mengubah opini yang sudah diyakini
+Ilmu pengetahuan mengalami pembaruan secara terus-menerus. Dengan ditemukannya berbagai bukti baru, redefinisi atas pemahaman yang diyakini sebelumnya menjadi imperatif. Ini karena kebenaran dalam sains sifatnya provisional, sehingga mungkin saja akan berubah ketika berhasil difalsifikasi oleh bukti-bukti yang baru. Data dan bukti baru selanjutnya diasimilasikan dengan konsep dan teori yang sudah ada sebelumnya.
 
-### Quick install using your web browser
+Persoalannya, para peragu sains cenderung resisten ketika dipaparkan bukti baru yang lebih meyakinkan. Mereka memilih untuk mempertahankan keyakinan yang sebelumnya sudah mereka miliki. Contoh mudahnya, kembali pada kasus MMR dan autisme, orangtua yang sudah *kadung* yakin bahwa MMR menyebabkan autisme (karena penelitiannya Wakefield), sulit sekali mengubah keyakinannya, meskipun sudah ada penelitian meta-analisis yang [menihilkan peningkatan risiko](https://annals.org/aim/fullarticle/2727726/measles-mumps-rubella-vaccination-autism-nationwide-cohort-study%C3%AF%C2%BB%C2%BF) menderita autisme pada anak yang divaksin MMR.
 
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://academic-demo.netlify.com/)
+### Mengarang cerita kontroversial
+Ketika para peragu kehabisan argumentasi yang meyakinkan, mereka akan cenderung mengarang cerita yang kontroversial untuk meyakinkan orang lain. Ini menurut saya, yang paling berbahaya, karena melibatkan unsur hasutan dan berita bohong. Kembali pada persoalan vaksinasi, beberapa orangtua diketahui menolak vaksinasi bagi anaknya karena termakan isu konspirasi Yahudi. Mereka mendapat informasi bohong, bahwa di Israel, vaksinasi tidak diwajibkan, sedangkan di negara-negara Muslim diwajibkan dengan tujuan menghancurkan generasi Muslim. Hal ini, tentu saja, adalah [kabar bohong](https://tirto.id/tolaklah-vaksin-penyakit-kau-tangkap-9ja) yang mudah sekali dicari bukti penyanggahnya. 
 
-### Install with Git
+### Menuntut bukti yang tidak masuk akal
+Sifat provisional sains menuntut ilmuwan untuk bersikap dan berpikir terbuka, sehingga memungkinkan ilmuwan melakukan redefinisi dan reformulasi ilmu pengetahuan. Mentalitas *open-mindedness* ini amat krusial perannya dalam perkembangan sains, namun celakanya orang awam sulit membayangkan dirinya terombang-ambing dalam ketidakpastian. Namun untuk memisahkan antara bukti yang substansial dengan 'kebisingan belaka', ilmuwan perlu melakukan serangkaian penelitian yang metodis, ketat dan cermat.
 
-Prerequisites:
+Untuk memperoleh pengetahuan, komunitas akademik menetapkan standar yang ketat mengenai penarikan kesimpulan atas gejala yang diamati, dengan tujuan agar kesimpulan yang ditarik tidak dipengaruhi oleh bias kognitif, atau sekadar *wishful thinking*. Suatu gagasan juga baru dapat dianggap ilmiah ketika memungkinkan untuk dilakukan pengujian (*testable*). Namun kebalikannya, para peragu sains kadang-kadang menetapkan standar yang tidak masuk akal, yang tidak mungkin dilakukan pengujian secara empirik.
 
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
+Misalnya, para perokok mengabaikan bukti empirik adanya kaitan antara peningkatan risiko menderita kanker yang diakibatkan oleh perilaku merokok, karena dianggap peningkatan risiko kanker yang diakibatkan perilaku merokok [tidak cukup signifikan](https://ajph.aphapublications.org/doi/10.2105/AJPH.91.11.1749) sampai dikatakan sangat berbahaya. Contoh lainnya, para peragu perubahan iklim tidak mempercayai model matematika yang mengestimasi fluktuasi temperatur permukaan bumi di masa lalu, ketika termometer belum ditemukan. Mereka hanya mau mempercayai hasil pengukuran suhu dengan menggunakan termometer. Pertanyaanya, bagaimana cara mengukur suhu di masa lalu, dimana termometer belum ditemukan?
 
-1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git: 
 
-        git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace `sourcethemes` with your GitHub username.*
+## Apa yang harus dilakukan?
+Para ilmuwan masih mencari formula komunikasi sains yang efektif mereduksi resistensi masyarakat pada sains dan ilmuwan. Menariknya, memberikan *counter-information* dengan melakukan *fact check* justru membuat para peragu [makin resisten](https://doi.org/10.1016/j.vaccine.2018.07.025). Pendekatan *framing* yang agresif dengan terang-terangan memusuhi atau mendiskreditkan para peragu, justru membuat masyarakat [semakin tidak percaya pada para ilmuwan](http://journals.sagepub.com/doi/10.1177/1075547018822081).
 
-2. Initialize the theme:
-
-        cd My_Website
-        git submodule update --init --recursive
-
-### Install with ZIP
-
-1. [Download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip) and extract *Academic Kickstart*
-2. [Download](https://github.com/gcushen/hugo-academic/archive/master.zip) and extract the *Academic theme* to the `themes/academic/` folder from the above step
-
-### Install with RStudio
-
-[View the guide to installing Academic with RStudio](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-## Quick start
-
-1. If you installed on your computer, view your new website by running the following command:
-      
-        hugo server
-
-    Now visit [localhost:1313](http://localhost:1313) and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.
-           
-2. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://academic-demo.netlify.com/)
-
-3. Build your site by running the `hugo` command. Then [host it for free using Github Pages](https://georgecushen.com/create-your-website-with-hugo/) or Netlify (refer to the first installation method). Alternatively, copy the generated `public/` directory (by FTP, Rsync, etc.) to your production web server (such as a university's hosting service).
-
-## Updating
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of updates and check out the [release notes](https://sourcethemes.com/academic/updates) prior to updating your site.
-
-Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your `themes/academic` directory) and record your current version number.
-
-By default, Academic is installed as a Git submodule which can be updated by running the following command:
-
-```bash
-git submodule update --remote --merge
-```
-
-[Check out the update guide](https://sourcethemes.com/academic/docs/update/) for full instructions and alternative methods.
-
-## Feedback & Contributing
-
-Please use the [issue tracker](https://github.com/gcushen/hugo-academic/issues) to let me know about any bugs or feature requests, or alternatively make a pull request.
-
-For support, head over to the [Hugo discussion forum](http://discuss.gohugo.io).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Salah satu intervensi yang cukup dipandang meyakinkan adalah dengan melakukan [*inoculation*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175799%20), yang prinsipnya mencegah individu mengadopsi pandangan yang salah dengan terlebih dulu membuatnya terpapar pada informasi yang benar. Dengan begitu, ketika ia mendapati argumentasi yang keliru, ia tidak lagi mudah terperdaya. Namun sampai sekarang, para ahli komunikasi sains belum benar-benar berhasil merumuskan strategi yang tepat untuk mengkoreksi misinformasi yang sudah *kadung* terjadi.
