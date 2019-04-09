@@ -19,19 +19,19 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R Programming"
-  description = "40%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "50%"  
+  description = ""  
   
 [[feature]]
   icon = "pen"
   icon_pack = "fas"
   name = "Academic Writing"
-  description = "60%"
+  description = ""
 
 
 +++
