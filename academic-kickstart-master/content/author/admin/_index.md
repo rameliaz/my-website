@@ -74,16 +74,6 @@ interests = [
   icon_pack = "ai"
   link = "https://osf.io/j8uyv/"
 
-[[social]]
-  icon = "publons"
-  icon_pack = "ai"
-  link = "https://publons.com/researcher/1287323/rizqy-amelia-zein"
-
-[[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Rizqy_Zein"
-
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
