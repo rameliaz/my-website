@@ -33,5 +33,10 @@ weight = 7
   name = "Academic Writing"
   description = ""
 
+[[feature]]
+  icon = "utensils"
+  icon_pack = "fas"
+  name = "Cooking"
+  description = "Indonesian & Middle-Eastern"
 
 +++
