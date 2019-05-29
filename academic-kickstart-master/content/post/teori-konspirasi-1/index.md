@@ -2,7 +2,7 @@
 title = "Sikap Anti-Sains: Mengapa partisan cenderung berpikir konspiratif?"
 subtitle = ""
 
-date = 2020-04-27T00:00:00
+date = 2019-04-27T00:00:00
 lastmod = 2019-04-25T07:26:00
 draft = true
 
