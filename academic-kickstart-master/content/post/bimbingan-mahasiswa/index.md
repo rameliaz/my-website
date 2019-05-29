@@ -59,7 +59,7 @@ Setelah semakin banyak mahasiswa yang meminta dibuatkan janji untuk bimbingan, s
 
 ## Mahasiswa yang bukan bimbingan skripsi saya
 
-Secara umum, semua mahasiswa (yang bukan bimbingan skripsi saya) boleh berkonsultasi dengan saya, asal **sepengetahuan dosen pembimbing skripsi**. Jadi, silahkan bilang dan minta ijin sama dosbing kalian dulu. Lebih bagus lagi, dosbing kalian yang langsung kontak dan bilang saya langsung (kalau kalian butuh bantuan saya. *Ini syarat wajib yang ga bisa ditawar-tawar*.
+Secara umum, semua mahasiswa (yang bukan bimbingan skripsi saya) boleh berkonsultasi dengan saya, asal **sepengetahuan dosen pembimbing skripsi**. Jadi, silahkan bilang dan minta ijin sama dosbing kalian dulu. Lebih bagus lagi, dosbing kalian yang kontak dan bilang saya langsung (kalau kalian butuh bantuan saya). *Ini syarat wajib yang ga bisa ditawar-tawar*.
 
 ### "Bu, saya ingin konsultasi tentang SPSS..."
 *Nope*, saya ga memberikan janji temu untuk SPSS. Saya udah ga pakai SPSS sejak 2017 dan tidak akan pakai lagi besok-besok. Sekarang sudah ada banyak *software* alternatif SPSS yang *open source* dan gratis dengan *interface* dan fungsi yang persis sama dengan SPSS, yaitu [jamovi](https://www.jamovi.org/) dan [JASP](https://jasp-stats.org/download/). Buat mahasiswa yang suka tantangan dan *programming*, bisa juga pakai [R](https://www.r-project.org/). Ketiga *software* tersebut udah banyak banget tutorialnya, silahkan cari sendiri, tanya ama Google.
