@@ -36,7 +36,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/publication/326196398_CondomEmoji_Are_urban_Indonesians_receptive_to_a_social_media-based_campaign_for_safer_sex"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
