@@ -10,22 +10,27 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "/publication"
   weight = 2
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Blog"
+  url = "/post"
+  weight = 3
+
+[[main]]
+  name = "Slides"
+  url = "/talk"
   weight = 3
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "/project"
   weight = 4
 
 [[main]]
-  name = "Tutorials"
-  url = "#tutorial"
+  name = "Courses"
+  url = "/courses"
   weight = 5
 
 [[main]]

@@ -2,7 +2,7 @@
 title = "Para Peragu Sains"
 subtitle = ""
 
-date = 2020-02-19T00:00:00
+date = 2019-02-19T00:00:00
 lastmod = 2019-02-19T00:00:00
 draft = true
 
