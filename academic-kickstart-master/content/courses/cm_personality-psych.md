@@ -15,12 +15,17 @@ linktitle = "Personality Psychology"
   weight = 1
 +++
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+This course is designed to make students understand how personality can influence behavior. This course will ask the students to understand personality theories by analysing a famous person auto/biography using their chosen personality theory.
 
-## Tip 1
-
-...
-
-## Tip 2
-
-...
+By the end of this course, students should be able to: <br>
+- Identify particular characters of well-known personality approaches and aspects that bulid personality, also analyse students' own experiences and recent research in personality </br>
+- Explain behavior pattern and dynamics based on specific personality theories <br>
+- Identify proper responses (cognitive, affective) referred to specific personality theories by having immediate experience </br>
+- Explain individual differences based on personality theories and the immediate experience <br>
+</br>
+Available slides: <br>
+- [Freud's Psychoanalysis](https://rameliaz.github.io/files/course-materials/personality_freud.pdf) </br>
+- [Eysenck's Behavioural Genetics & McCrae & Costa's Five Factor Model](https://rameliaz.github.io/files/course-materials/personality_eysenck_big5.pptx) <br>
+- [The Dark Triad Personality & HEXACO](https://rameliaz.github.io/files/course-materials/personality_dt_hexaco.pptx) </br>
+- [Cognitive & Humanistic Approaches](https://rameliaz.github.io/files/course-materials/personality_Cog_Humanistic.pptx) <br>
+</br>
