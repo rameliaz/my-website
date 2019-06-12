@@ -21,6 +21,6 @@ Here is the list of my taught courses in 2019:
 **Even Semester (2018/2019)**<br>
 - [Personality Psychology](https://rameliaz.github.io/courses/cm_personality-psych) (Double Degree Programme - taught in English) </br>
 - Quantitative Research Method and Data Analysis <br>
-- Community Mental Health </br>
+- [Community Mental Health](https://rameliaz.github.io/courses/cm_kesehatan-mental-komunitas) </br>
 - Philosophy of Science <br>
 - Human Philosophy </br>
