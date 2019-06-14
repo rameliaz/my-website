@@ -1,27 +1,21 @@
 +++
-title = "Statistics"
+title = "Methods & Statistics"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
 
-draft = true  # Is this a draft? true/false
+draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.courses]
-  name = "Statistics"
+  name = "Methods & Statistics"
   weight = 3
 +++
 
-This feature can be used for publishing content such as:
+I'm committed to promote good ways to do stats by making short tutorials to improve stats and methodological practices. And this is not limited to psych people, but also to other researchers from any disciplines who also use stats for their research.
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+Everything I post here are licensed [<i class="fab fa-creative-commons"></i>](https://creativecommons.org), so everyone is welcome to share and reproduce everything.
 
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
-
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
-
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
+If you think this tutorials all helpful, please pass on to your colleagues, students, etc.
