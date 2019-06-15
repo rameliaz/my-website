@@ -21,8 +21,6 @@ email = "amelia.zein@psikologi.unair.ac.id"
 # List (academic) interests or hobbies
 interests = [
   "Social Psychology",
-  "Health Psychology",
-  "Political Psychology",
   "Statistics", 
   "Research Methods"
 ]
@@ -84,7 +82,7 @@ interests = [
 
 +++
 
-Rizqy **Amelia** Zein is a social psychology instructor and an early-career researcher, working for Faculty of Psychology, Universitas Airlangga in Surabaya, Indonesia. I'm also a researcher-in-training at IGDORE, a volunteer in [INArxiv](https://osf.io/preprints/inarxiv/) - the OSF-hosted pre-print server in Indonesia, and a member of Tim Sains Terbuka (TST) Indonesia. Just recently, my ECR friends and I decided to start [Airlangga #OpenScience](https://sainsterbukaua.github.io), which mainly focuses on promoting open scientific practices in Universitas Airlangga.
+Rizqy **Amelia** Zein is a social psychology instructor and an early-career researcher, working at Faculty of Psychology, Universitas Airlangga in Surabaya, Indonesia. I'm also a researcher-in-training at IGDORE, a volunteer in [INArxiv](https://osf.io/preprints/inarxiv/) - a OSF-hosted pre-print server in Indonesia, and a member of Tim Sains Terbuka (TST) Indonesia. Just recently, my ECR friends and I decided to start [Airlangga #OpenScience](https://sainsterbukaua.github.io), which mainly focuses on promoting open scientific practices in Universitas Airlangga (and beyond).
 
 I'm an aspiring PhD, interested in conducting research on science denialism by looking at its relation with conspiracy belief, collective narcissism, epistemic virtue/belief, religiosity and general/intellectual humility. I'm also interested in the issues of research methods, replicability and statistical analysis. Apart from my daily responsibilities, I'm regularly practising my [<i class="fab fa-r-project"></i>](https://www.r-project.org) programming skill and created this website using `blogdown` package. My favourite [<i class="fab fa-r-project"></i>](https://www.r-project.org) packages are `lavaan`, `lme4`, `tidyverse`, and `psych`.
 
