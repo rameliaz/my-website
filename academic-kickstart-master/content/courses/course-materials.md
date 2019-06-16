@@ -24,3 +24,5 @@ Here is the list of my taught courses in 2019:
 - [Community Mental Health](https://rameliaz.github.io/courses/cm_kesehatan-mental-komunitas) </br>
 - Philosophy of Science <br>
 - Human Philosophy </br>
+
+NB: Should you have any questions, comments, or anything else, please [drop me a message here](https://rameliaz.github.io/post/qa-tutorial).
