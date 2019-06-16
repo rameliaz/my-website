@@ -18,4 +18,6 @@ I'm committed to promote good ways to do stats by making short tutorials to impr
 
 Everything I post here are [<i class="fab fa-creative-commons"></i>](https://creativecommons.org) licensed, so everyone is welcome to share and reproduce everything.
 
-If you think this tutorials all helpful, please pass on to your colleagues, students, etc.
+If you think this tutorials are all helpful, please pass on to your colleagues, students, etc.
+
+NB: Should you have any questions, comments, or anything else, please [drop me a message here](https://rameliaz.github.io/post/qa-tutorial).
