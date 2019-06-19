@@ -14,7 +14,7 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
-I will share all materials from all undergraduate courses I taught here to the public. Slides are [<i class="fab fa-creative-commons"></i>](https://creativecommons.org) licensed, so everyone is welcome to share and reproduce the slides.
+I will share all materials from all undergraduate courses I taught here to the public. Slides are under the license of [<i class="fab fa-creative-commons"></i>](https://creativecommons.org), so everyone is welcome to share and reproduce the slides.
 
 Here is the list of my taught courses in 2019:
 
@@ -25,4 +25,4 @@ Here is the list of my taught courses in 2019:
 - Philosophy of Science <br>
 - Human Philosophy </br>
 
-NB: Should you have any questions, comments, or anything else, please [drop me a message here](https://rameliaz.github.io/post/qa-tutorial).
+NB: Should you have any questions, comments, feedback, or anything else, please [drop me a message here](https://rameliaz.github.io/post/qa-tutorial).
