@@ -22,13 +22,14 @@ email = "amelia.zein@psikologi.unair.ac.id"
 interests = [
   "Social Psychology",
   "Statistics", 
-  "Research Methods"
+  "Research Methods",
+  "Science Communication and Policy"
 ]
 
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
-  course = "MSc in Social Research"
+  course = "Master of Science (MSc) in Social Research"
   institution = "University of Edinburgh"
   year = 2013
 
@@ -82,7 +83,7 @@ interests = [
 
 +++
 
-Rizqy **Amelia** Zein is a social psychology instructor and an early-career researcher, working at Faculty of Psychology, Universitas Airlangga in Surabaya, Indonesia. I'm also a researcher-in-training at IGDORE, a volunteer in [INArxiv](https://osf.io/preprints/inarxiv/) - a OSF-hosted pre-print server in Indonesia, and a member of Indonesia Open Science Team. Just recently, my ECR friends and I decided to start [Airlangga #OpenScience](https://sainsterbukaua.github.io), which mainly focuses on promoting open scientific practices in Universitas Airlangga (and beyond).
+Rizqy **Amelia** Zein is a social psychology instructor and an early-career researcher, working at Faculty of Psychology, Universitas Airlangga in Surabaya, Indonesia. I'm also a researcher-in-training at IGDORE, a volunteer at [INArxiv](https://osf.io/preprints/inarxiv/) - a OSF-hosted pre-print server in Indonesia, and a member of Indonesia Open Science Team. Just recently, my ECR friends and I decided to start [Airlangga #OpenScience](https://sainsterbukaua.github.io), which mainly focuses on promoting open scientific practices in Universitas Airlangga (and beyond).
 
 As an aspiring PhD, I'm interested in investigating science denialism by looking at its relation with conspiracy belief, epistemic virtue/belief, religiosity and general/intellectual humility. I'm also particularly very passionate about research methods, replicability and statistics. Apart from my daily responsibilities, I'm determined to practise my [<i class="fab fa-r-project"></i>](https://www.r-project.org) programming skill and created this website using `blogdown` package. My favourite [<i class="fab fa-r-project"></i>](https://www.r-project.org) packages are including `lavaan`, `lme4`, `tidyverse`, and `psych`.
 
