@@ -69,9 +69,9 @@ interests = [
   link = "https://orcid.org/0000-0001-7840-0299"
   
 [[social]]
-  icon = "osf"
-  icon_pack = "ai"
-  link = "https://osf.io/j8uyv/"
+  icon = "medium"
+  icon_pack = "fab"
+  link = "https://medium.com/@amelia.zein"
 
 
 # Link to a PDF of your resume/CV from the About widget.
