@@ -6,7 +6,7 @@ time_start = 2019-08-08T09:00:00
 time_end = 2019-08-08T12:00:00
 abstract = ""
 abstract_short = ""
-event = "Workshop Opetimalisasi Konten Berbasis Webometrics"
+event = "Workshop Optimalisasi Konten Berbasis Webometrics"
 event_url = ""
 location = "Direktorat Sistem Informasi (DSI) Universitas Airlangga"
 
@@ -38,4 +38,4 @@ caption = "My caption :smile:"
 
 +++
 
-Materi ini adalah bagian dari workshop yang diselenggarakan oleh DSI Unair. Untuk mengunduh slide materi, klik opsi `pdf` sedangkan untuk mengakses kode yang digunakan untuk membuat presentasi, silahkan klik `code`. Materi berlisensi `r fa("creative-commons")` 1.0 (*public domain*). Materi bebas digunakan kembali tanpa ada kewajiban menyebutkan sumber aslinya.
+Materi ini adalah bagian dari workshop yang diselenggarakan oleh DSI Unair. Untuk mengunduh slide materi, klik opsi `pdf` sedangkan untuk mengakses kode yang digunakan untuk membuat presentasi, silahkan klik `code`. Materi berlisensi <i class="fab fa-creative-commons"></i> 1.0 (*public domain*). Materi bebas digunakan kembali tanpa ada kewajiban menyebutkan sumber aslinya.

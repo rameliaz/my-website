@@ -56,7 +56,7 @@ Awalnya saya ga terpikir untuk berangkat. Mendaftar sebagai partisipan repliCATS
 Saya masih ingat (meskipun samar-samar) pertama kali saya mendengar istilah [krisis replikasi]() dan [sains terbuka](), yang kira-kira sekitar 1-2 tahun yang lalu. Awalnya, saya membaca sebuah penelitian yang dilakukan oleh [Danny Osborne, dkk.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2099) tentang tipologi deprivasi relatif (kombinasi antara kolektif dan individual). Penelitian tersebut menggunakan *latent profile analysis* (LPA) yang sebenarnya cukup mirip dengan K-Means Clustering, hanya saja dasar pengkategoriannya adalah informasi dari variabel yang sifatnya laten. Salah satu indikator *model fit* yang digunakan adalah *Bayesian Information Criteria* (BIC), yang saya belum pernah saya dengar sama sekali. Selanjutnya saya akhirnya mencari tahu soal *Bayesian conditional probability* dan kemudian kenal dengan *Bayes Factor*. Seterusnya saya seperti masuk ke lubang yang sama dengan Alice (in the Wonderland) dan ketemu dengan banyak sekali istilah baru, dan utamanya, beberapa isu utama tentang reformasi metodologi dalam Psikologi. Salah satu *paper* yang menurut saya *mind-blowing* banget adalah False Positive Psychology 
 
 
-![Gara-gara LPA, disinilah saya sekarang...](/sips-conference-2019/index_files/alice.jpg)
+![Gara-gara LPA, disinilah saya sekarang...](/sips-conference-2019/alice.jpg)
 
 
 
