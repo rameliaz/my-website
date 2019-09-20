@@ -20,7 +20,7 @@ projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = "https://rameliaz.github.io/files/kelas-literasi-2019.pdf"
-url_slides = "https://rameliaz.github.io/talk/kelas-literasi-2019"
+url_slides = "https://rameliaz.github.io/talk/kelas-literasi"
 url_video = ""
 url_code = "https://github.com/rameliaz/kelas-literasi/blob/master/kelas-literasi.Rmd"
 
