@@ -20,8 +20,8 @@ projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = "https://rameliaz.github.io/files/kelas-literasi-2019.pdf"
-url_slides = "https://rameliaz.github.io/talk/kelas-literasi"
-url_video = ""
+url_slides = "https://rameliaz.github.io/kelas-literasi"
+url_video = "https://youtu.be/f1mm9qfgjm4"
 url_code = "https://github.com/rameliaz/kelas-literasi/blob/master/kelas-literasi.Rmd"
 
 # Does the content use math formatting?
