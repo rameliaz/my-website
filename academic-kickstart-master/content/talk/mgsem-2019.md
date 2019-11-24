@@ -1,7 +1,7 @@
 +++
 date = 2019-02-13T11:45:00  # Schedule page publish date.
 
-title = "Multigroup Structural Equation Modelling with JASP"
+title = "Multigroup Structural Equation Modelling"
 time_start = 2019-11-22T09:00:00
 time_end = 2019-11-23T16:00:00
 abstract = ""
@@ -19,10 +19,10 @@ selected = false
 projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf = "https://rameliaz.github.io/mg-sem-workshop/"
+url_slides = "https://rameliaz.github.io/mg-sem-workshop/"
+url_video = "https://youtu.be/FB-e48e_UtQ"
+url_code = "https://github.com/rameliaz/mg-sem-workshop"
 
 # Does the content use math formatting?
 math = true
@@ -38,4 +38,4 @@ caption = "My caption :smile:"
 
 +++
 
-This workshop is a part of the events organised by Department of Personality and Social Pscyhology to commemorate the 36th Anniversary of Faculty of Psychology Universitas Airlangga. Slides will become available soon.
+This workshop is a part of the events organised by Department of Personality and Social Pscyhology to commemorate the 36th Anniversary of Faculty of Psychology Universitas Airlangga. 
