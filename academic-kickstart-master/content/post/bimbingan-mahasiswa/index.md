@@ -86,6 +86,8 @@ Tolong **spesifik dalam mendeskripsikan persoalan** yang mau dikonsultasikan. Le
 * Saya butuh waktu **setidaknya 2 minggu** untuk menyelesaikan rater skala/instrumen. Bisa lebih kalo saya lagi *overload*, tapi akan saya informasikan sebelumnya kalo memang lagi *overload*.
 * Normalnya, proses rater skala dilakukan **sebelum mengambil data**. Kalo ada mahasiswa yang minta rater **sambil ambil data** atau ketika pengambilan data **sudah selesai** baru minta rater (*kebacut* lho ini..), maka mahasiswa tsb. akan saya rekomendasikan ke ketua pengujinya **agar tidak diluluskan ujian skripsi dan disuruh ambil data ulang**. Mohon jangan sampai ada mahasiswa yang melakukan hal ini. Kejadian semacam ini sangat menyebalkan dan bikin saya sangat kecewa, karena ini sama aja buang-buang waktu saya.
 
+**Catatan penting**: Saya membuat contoh *form* sekaligus simulasi penghitungan CVI yang [bisa diunduh disini](https://rameliaz.github.io/files/menghitung-cvi.xlsx).
+
 ## "Kok beda ya bu cara ngitung *content validity* di referensi-referensi diatas dengan kebanyakan yang ditulis di skripsi-skripsi?" 
 
 Tentu aja bedalah. Yang kebanyakan dilakukan mahasiswa-mahasiswa di skripsi-skripsi sebelumnya adalah meminta masukan rater atas **penulisan/wording aitem**, BUKAN **estimasi validitas isi**. :smile:
