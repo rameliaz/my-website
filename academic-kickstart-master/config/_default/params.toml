@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "1950s"
+color_theme = "coffee"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -54,10 +54,10 @@ email = "amelia.zein@psikologi.unair.ac.id"
 address = "Fakultas Psikologi, Universitas Airlangga, Kampus B UNAIR, Jalan Airlangga 4-6 Surabaya, Jawa Timur, Indonesia 60286"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = ""
+office_hours = "Monday to Thursday, 8 am-3 pm"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+appointment_url = "https://calendly.com/ameliazein"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -82,10 +82,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 2
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "-7.273094"
+longitude = "112.7582209"
 zoom = 15
 
 ############################
