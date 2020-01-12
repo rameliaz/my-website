@@ -1,6 +1,6 @@
 +++
 title = "Do Justice and Trust Affect Acceptability of Indonesian Social Health Insurance Policy? A cross-sectional survey of laypeople and health care workers"
-date = "2019-01-30"
+date = "2019-12-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -15,10 +15,10 @@ authors = ["**Rizqy Amelia Zein**", "Nuzulul Kusuma Putri", "Ilham Akhsanu Ridlo
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "in review"
+publication = "International Journal of Health Governance"
 #publication_short = ""
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.emerald.com/insight/content/doi/10.1108/IJHG-05-2019-0028/full/html"
 url_preprint = "https://osf.io/preprints/inarxiv/fvtjg/"
 url_code = "https://osf.io/gsd5t/"
 url_dataset = "https://osf.io/gsd5t/"
