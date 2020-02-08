@@ -89,4 +89,4 @@ As an aspiring PhD, I'm interested in researching moral reasoning, norms violati
 
 I was born in [Lombok](https://en.wikipedia.org/wiki/Lombok), a beautiful island next to Bali, but spent most of my childhood in [Surabaya, Indonesia](https://en.wikipedia.org/wiki/Surabaya). Apart from my academic life, I enjoy cooking for my husband [Ilham](https://iaridlo.net/) and my daughter, Ayesha.
 
-**If you want to set up an appointment, you can drop me an email, or request an appointment through [my Calendly page](https://calendly.com/ameliazein).**
+**If you want to set up an appointment, you can drop me an email, or request an appointment through [my Doodle page](https://doodle.com/ameliazein).**

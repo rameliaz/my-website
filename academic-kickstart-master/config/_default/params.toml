@@ -57,7 +57,7 @@ address = "Fakultas Psikologi, Universitas Airlangga, Kampus B UNAIR, Jalan Airl
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/ameliazein"
+appointment_url = "https://doodle.com/ameliazein"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
