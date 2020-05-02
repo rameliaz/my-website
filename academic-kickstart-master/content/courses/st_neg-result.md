@@ -25,7 +25,5 @@ Berikut adalah tutorial bagaimana cara menginterpretasi *p-value* dan melaporkan
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/brDKVshvzl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Wallahu a'lam bishawab*
-
 NB: Untuk pertanyaan, komentar atau yang lainnya, silahkan [klik disini](https://rameliaz.github.io/post/qa-tutorial).
 

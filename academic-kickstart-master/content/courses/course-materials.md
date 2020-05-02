@@ -16,13 +16,18 @@ type = "docs"  # Do not modify.
 
 I will share all materials from all undergraduate courses I taught here to the public. Slides are under the license of [<i class="fab fa-creative-commons"></i>](https://creativecommons.org), so everyone is welcome to share and reproduce the slides.
 
-Here is the list of my taught courses in 2019:
+Here is the list of my taught courses in 
+
+**2019**
 
 **Even Semester (2018/2019)**<br>
-- [Personality Psychology](https://rameliaz.github.io/courses/cm_personality-psych) (Double Degree Programme - taught in English) </br>
-- Quantitative Research Method and Data Analysis <br>
+- [Quantitative Research Method and Data Analysis](https://osf.io/tq6pz/) <br>
 - [Community Mental Health](https://rameliaz.github.io/courses/cm_kesehatan-mental-komunitas) </br>
 - Philosophy of Science <br>
 - Human Philosophy </br>
+
+**2020**
+
+[Personality Psychology](https://rameliaz.github.io/courses/cm_personality-psych_amerta) (AMERTA Programme - taught in English)
 
 NB: Should you have any questions, comments, feedback, or anything else, please [drop me a message here](https://rameliaz.github.io/post/qa-tutorial).

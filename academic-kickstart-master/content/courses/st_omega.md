@@ -30,8 +30,6 @@ Nah, mengingat keempat asumsi ini tidak terpenuhi, maka estimasi CA yang dilakuk
 
 Nah, untuk kali ini, saya akan mendemonstrasikan cara menghitung koefisien ω dengan menggunakan [JASP](https://jasp-stats.org/download/) dan [R](https://cran.r-project.org/bin/windows/base/) (menggunakan *package* `psych` dan `MBESS`). Kedua *software* tersebut *open-source*, sehingga siapapun dapat mengaksesnya tanpa harus membayar biaya langganan. SPSS tidak menyediakan fitur untuk mengestimasi ω dan semoga hal ini menambah motivasi untuk tidak menggunakan SPSS versi bajakan :smile:.
 
-*Wallahu a'lam bishawab*
-
 NB: Untuk pertanyaan, komentar atau yang lainnya, silahkan [klik disini](https://rameliaz.github.io/post/qa-tutorial).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoVSkJ8u7JQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
