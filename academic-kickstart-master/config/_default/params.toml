@@ -54,10 +54,10 @@ email = "amelia.zein@psikologi.unair.ac.id"
 address = "Fakultas Psikologi, Universitas Airlangga, Kampus B UNAIR, Jalan Airlangga 4-6 Surabaya, Jawa Timur, Indonesia 60286"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = ""
+office_hours = "Friday, 11.00-12.00"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://doodle.com/ameliazein"
+appointment_url = "https://doodle.com/mm/rizqyameliazein/book-a-time"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

@@ -21,8 +21,8 @@ email = "amelia.zein@psikologi.unair.ac.id"
 # List (academic) interests or hobbies
 interests = [
   "Social Psychology",
-  "Statistics", 
-  "Research Methods",
+  "Health Psychology",
+  "Metascience",
   "Science Communication and Policy"
 ]
 
@@ -85,8 +85,10 @@ interests = [
 
 **Amelia** is working at Faculty of Psychology, Universitas Airlangga in Surabaya, Indonesia, a researcher-in-training at [Institute for Globally Distributed Open Research and Education (IGDORE)](https://igdore.org/), and a co-founder of [Airlangga #OpenScience](https://sainsterbukaua.github.io), which mainly focuses on promoting open scientific practices in Universitas Airlangga (and beyond).
 
-As an aspiring PhD, I'm interested in researching moral reasoning, norms violations, moral judgment, and self-construal. My second line of interest is researching why people intuitively trust non-health experts for health advice and how conspiracy beliefs could affect public attitudes to science. I'm also very passionate about research methods, meta-research, computational reproducibility, psychometrics, and advanced statistical analysis. Apart from my main responsibility, I'm determined to independently practise my [<i class="fab fa-r-project"></i>](https://www.r-project.org) programming skill.  
+As an aspiring PhD, my planned research programme is looking at how religious laypeople reconcile morally-contentious scientific findings with their own faith and specifically investigating health-related issues, such as vaccination, alternative medicine, and infectious diseases. I'm also broadly interested in researching moral reasoning, norms violations, and conspiracy beliefs. 
+
+I'm also very passionate about research methods, meta-research, computational reproducibility, psychometrics, and advanced statistical analysis. Apart from my main responsibility, I'm determined to independently practise my [<i class="fab fa-r-project"></i>](https://www.r-project.org) programming skill.  
 
 I was born in [Lombok](https://en.wikipedia.org/wiki/Lombok), a beautiful island next to Bali, but spent most of my childhood in [Surabaya, Indonesia](https://en.wikipedia.org/wiki/Surabaya). Apart from my academic life, I enjoy cooking for my husband [Ilham](https://iaridlo.net/) and my daughter, Ayesha.
 
-**If you want to set up an appointment, you can drop me an email, or request an appointment through [my Doodle page](https://doodle.com/ameliazein).**
+**If you want to set up an appointment, you can drop me an email, or request an appointment through [my Doodle page](https://doodle.com/mm/rizqyameliazein/book-a-time).**
