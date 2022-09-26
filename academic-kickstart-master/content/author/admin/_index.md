@@ -6,11 +6,11 @@ name = "Rizqy Amelia Zein"
 superuser = true
 
 # Role/position
-role = "Assistant Professor in Personality and Social Psychology"
+role = "PhD Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Universitas Airlangga", url = "https://psikologi.unair.ac.id/en_US/dosen-rizqy-amelia-zein/" } ]
+organizations = [ { name = "Ludwig Maximilians Universität München", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "A researcher, a housewife and a mother"
@@ -29,7 +29,7 @@ interests = [
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
-  course = "Master of Science (MSc) in Social Research"
+  course = "Master of Science (M.Sc.) in Social Research"
   institution = "University of Edinburgh"
   year = 2013
 
@@ -83,12 +83,8 @@ interests = [
 
 +++
 
-**Amelia** is working at Faculty of Psychology, Universitas Airlangga in Surabaya, Indonesia, a researcher-in-training at [Institute for Globally Distributed Open Research and Education (IGDORE)](https://igdore.org/), and a co-founder of [Airlangga #OpenScience](https://sainsterbukaua.github.io), which mainly focuses on promoting open scientific practices in Universitas Airlangga (and beyond).
+I'm (**Amelia**) currently a PhD student at Ludwig Maximilians Universität München, working on a project focuses on investigating mental conceptualization of science and religion relationship. Additionally, I'm broadly interested in researching health misinformation, conspiracy belief, and public attitudes to science. I'm also very passionate about research methods, meta-research, computational reproducibility, psychometrics, and advanced statistical analysis. Apart from my main responsibility, I'm determined to independently practise my [<i class="fab fa-r-project"></i>](https://www.r-project.org) programming skill.  
 
-As an aspiring PhD, my planned research programme is looking at how religious laypeople reconcile morally-contentious scientific findings with their own faith and specifically investigating health-related issues, such as vaccination, alternative medicine, and infectious diseases. I'm also broadly interested in researching moral reasoning, norms violations, and conspiracy beliefs. 
+I was born in [Lombok](https://en.wikipedia.org/wiki/Lombok), a beautiful island next to Bali, but spent most of my childhood in [Surabaya, Indonesia](https://en.wikipedia.org/wiki/Surabaya). Apart from my academic life, I like to cook, listen to Japanese Rock bands, such as [L'Arc~en~Ciel](https://en.wikipedia.org/wiki/L%27Arc-en-Ciel), [Do As Infinity](https://en.wikipedia.org/wiki/Do_As_Infinity) and [Wagakki Band](https://en.wikipedia.org/wiki/Wagakki_Band), and read *manga* (my personal favourites are [Gals!](https://en.wikipedia.org/wiki/Gals!) and [The Promised Neverland](https://en.wikipedia.org/wiki/The_Promised_Neverland)).
 
-I'm also very passionate about research methods, meta-research, computational reproducibility, psychometrics, and advanced statistical analysis. Apart from my main responsibility, I'm determined to independently practise my [<i class="fab fa-r-project"></i>](https://www.r-project.org) programming skill.  
-
-I was born in [Lombok](https://en.wikipedia.org/wiki/Lombok), a beautiful island next to Bali, but spent most of my childhood in [Surabaya, Indonesia](https://en.wikipedia.org/wiki/Surabaya). Apart from my academic life, I enjoy cooking for my husband [Ilham](https://iaridlo.net/) and my daughter, Ayesha.
-
-**If you want to set up an appointment, you can drop me an email, or request an appointment through [my Doodle page](https://doodle.com/mm/rizqyameliazein/book-a-time).**
+**For UNAIR Students: If you'd like to set up an appointment, please request it through [my Doodle page](https://doodle.com/mm/rizqyameliazein/book-a-time). Please note that I'm in a study leave until 2025 (expected) so I'm no longer available for teaching or undergraduate thesis supervision.**

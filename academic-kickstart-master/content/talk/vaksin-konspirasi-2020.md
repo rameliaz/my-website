@@ -19,10 +19,10 @@ selected = false
 projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://rameliaz.github.io/files/vaksin-sisj.pdf"
 url_slides = "https://s.id/vaksin-konspirasi"
-url_video = ""
-url_code = "https://github.com/rameliaz/hackmd-presentation/blob/master/vaksin-konspirasi.md"
+url_video = "https://www.youtube.com/watch?v=In2chqF6dDU&t=1389s"
+url_code = "https://github.com/rameliaz/hackmd-presentation/blob/master/Invited%20Talks/vaksin-konspirasi.md"
 
 # Does the content use math formatting?
 math = true

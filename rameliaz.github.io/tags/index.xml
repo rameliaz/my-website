@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on @ameliazein</title>
+    <link>https://rameliaz.github.io/tags/</link>
+    <description>Recent content in Tags on @ameliazein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 14:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://rameliaz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>akademik</title>
+      <link>https://rameliaz.github.io/tags/akademik/</link>
+      <pubDate>Sun, 16 Jun 2019 14:00:00 +0200</pubDate>
+      
+      <guid>https://rameliaz.github.io/tags/akademik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://rameliaz.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 16 Jun 2019 14:00:00 +0200</pubDate>
+      
+      <guid>https://rameliaz.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSA</title>
+      <link>https://rameliaz.github.io/tags/psa/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://rameliaz.github.io/tags/psa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>casual</title>
+      <link>https://rameliaz.github.io/tags/casual/</link>
+      <pubDate>Thu, 30 May 2019 14:00:00 +0200</pubDate>
+      
+      <guid>https://rameliaz.github.io/tags/casual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://rameliaz.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rameliaz.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
