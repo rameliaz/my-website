@@ -37,6 +37,6 @@ weight = 2
   icon = "utensils"
   icon_pack = "fas"
   name = "Cooking"
-  description = "Indonesian & Middle-Eastern"
+  description = "South-East Asian & Middle-Eastern"
 
 +++

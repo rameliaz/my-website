@@ -1,7 +1,7 @@
 +++
 date = 2019-02-13T11:45:00  # Schedule page publish date.
 
-title = "Multigroup Structural Equation Modelling"
+title = "Multigroup Structural Equation Modelling Workshop"
 time_start = 2019-11-22T09:00:00
 time_end = 2019-11-23T16:00:00
 abstract = ""
